@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on @sincerelysamyak
+- 📫 How to reach me on sincerelysamyakjain@gmail.com
 
 <!---
 sincerelysamyak/sincerelysamyak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
